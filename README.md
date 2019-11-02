@@ -21,12 +21,7 @@ of representing the year in which these events took place; in this case the
 With the exception of the commits made in 1971, the year was actually 1791,
 I did this:
 
-1983 - Drop the 19 and add 1000 => 183x
 
-Thus We don't have a specific year and it is confusing.
-
-Going forward though, any amendments should use the actual amended date since
-there will be no confusion for this scheme and anything occurring after 2000.
 
 ## The Eighteenth Amendment
 

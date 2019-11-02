@@ -7,7 +7,7 @@ document look like? How did these Amendments actually change what that document
 said? This repository answers those questions, to the best of my ability.
 
 Gitmoji is utilized to signal the type of change being made. As these are
-create for software and not legal documents, some imagination may be needed.
+create for software and not legal documents, some imagination may be needed
 https://gitmoji.carloscuesta.me/
 
 ## Who Made the Change?
